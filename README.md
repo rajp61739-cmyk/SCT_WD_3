@@ -41,7 +41,7 @@ CSS3 (Modern UI + Animations)
 JavaScript (Vanilla JS)
 
 # 🌐 Live PROJECT
-🌐 Live Project: 
+🌐 Live Project: https://rajp61739-cmyk.github.io/SCT_WD_3/
 
 👉 GitHub Repository:https://github.com/rajp61739-cmyk/SCT_WD_3
 # 📂 Project Structure
@@ -66,6 +66,6 @@ WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
 🔗 GitHub:https:https://github.com/rajp61739-cmyk/SCT_WD_3
 
-🌐 Live Project: 
+🌐 Live Project: https://rajp61739-cmyk.github.io/SCT_WD_3/
 
 💼 LinkedIn: https://www.linkedin.com/in/prince-raj-8b480b286?utm_source=share_via&utm_content=profile&utm_medium=member_android
